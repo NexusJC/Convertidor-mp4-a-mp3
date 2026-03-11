@@ -1,4 +1,4 @@
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 
 def convert_mp4_to_mp3(input_path, output_path):
 
