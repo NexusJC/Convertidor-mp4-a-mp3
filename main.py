@@ -3,7 +3,7 @@ from utils import create_output_folder, get_output_name
 
 def main():
 
-    print("=== CONVERTIDOR MP4 → MP3 ===\n")
+    print("=== Convertidor MP4 → MP3 ===\n")
 
     create_output_folder()
 
