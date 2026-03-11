@@ -1,0 +1,5 @@
+moviepy
+imageio
+imageio-ffmpeg
+numpy
+proglog
